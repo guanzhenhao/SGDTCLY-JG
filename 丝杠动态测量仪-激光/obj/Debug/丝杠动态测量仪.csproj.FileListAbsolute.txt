@@ -1,0 +1,253 @@
+E:\VS\我的类库\丝杠动态测量仪\bin\Debug\丝杠动态测量仪.exe
+E:\VS\我的类库\丝杠动态测量仪\bin\Debug\丝杠动态测量仪.pdb
+E:\VS\我的类库\丝杠动态测量仪\bin\Debug\GZH_ClassLibrary.dll
+E:\VS\我的类库\丝杠动态测量仪\bin\Debug\ClosedXML.dll
+E:\VS\我的类库\丝杠动态测量仪\bin\Debug\DocumentFormat.OpenXml.dll
+E:\VS\我的类库\丝杠动态测量仪\bin\Debug\GZH_ClassLibrary.pdb
+E:\VS\我的类库\丝杠动态测量仪\bin\Debug\ClosedXML.pdb
+E:\VS\我的类库\丝杠动态测量仪\bin\Debug\ClosedXML.xml
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.csprojAssemblyReference.cache
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.Form1.resources
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.PCI1713.resources
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.密码修改.resources
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.F2.resources
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.添加件号.resources
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.登录.resources
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.误差分析.resources
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.exe
+E:\VS\我的类库\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.pdb
+E:\VS\丝杠动态测量仪\bin\Debug\丝杠动态测量仪.exe
+E:\VS\丝杠动态测量仪\bin\Debug\丝杠动态测量仪.pdb
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.Form1.resources
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.PCI1713.resources
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.密码修改.resources
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.F2.resources
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.添加件号.resources
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.登录.resources
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.误差分析.resources
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.exe
+E:\VS\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1)\obj\Debug\丝杠动态测量仪.csprojAssemblyReference.cache
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-起点误差计算 (1) (1) (1)\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-平均值\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1)\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (1) (1)\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-限幅滤波 (3）\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-40个数据点,连续9个点去掉最大最小值求均值\obj\Debug\丝杠动态测量仪.csprojAssemblyReference.cache
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-滤波算法\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-移动平均值算法\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.csprojAssemblyReference.cache
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\bin\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\bin\Debug\丝杠动态测量仪.pdb
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.csprojAssemblyReference.cache
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.Form1.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.PCI1713.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.密码修改.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.F2.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.添加件号.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.登录.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.误差分析.resources
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.csproj.CopyComplete
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.exe
+C:\Users\34278\Desktop\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.pdb
+E:\VS\丝杠动态测量仪-中值滤波\bin\Debug\丝杠动态测量仪.exe
+E:\VS\丝杠动态测量仪-中值滤波\bin\Debug\丝杠动态测量仪.pdb
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.Form1.resources
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.PCI1713.resources
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.Properties.Resources.resources
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.光栅尺补偿.resources
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.密码修改.resources
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.F2.resources
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.添加件号.resources
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.登录.resources
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.误差分析.resources
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.csproj.GenerateResource.cache
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.csproj.CoreCompileInputs.cache
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.exe
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.pdb
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.csproj.AssemblyReference.cache
+E:\VS\丝杠动态测量仪-中值滤波\obj\Debug\丝杠动态测量仪.csproj.Up2Date

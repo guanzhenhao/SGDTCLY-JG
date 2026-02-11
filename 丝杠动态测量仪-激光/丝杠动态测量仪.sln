@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "丝杠动态测量仪-激光", "丝杠动态测量仪-激光.csproj", "{2876D05E-1BD7-4DD7-9C8B-4ECA1BF9D4A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2876D05E-1BD7-4DD7-9C8B-4ECA1BF9D4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2876D05E-1BD7-4DD7-9C8B-4ECA1BF9D4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2876D05E-1BD7-4DD7-9C8B-4ECA1BF9D4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2876D05E-1BD7-4DD7-9C8B-4ECA1BF9D4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D6A94EB-352A-439B-92A9-77B7F1899BB7}
+	EndGlobalSection
+EndGlobal
