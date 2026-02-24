@@ -128,16 +128,16 @@ namespace 丝杠动态测量仪
             ac1.Read_col_cells(path_shujuku, Pwd, "测量参数", "丝杠件号");
             if (ac1.Arr.Contains(comboBox3.Text.Trim()) == false)//检测丝杠件号是否存在
             {
-                int id;
-                ac1.MaxId(path_shujuku, Pwd, "测量参数");
-                if (ac1.Arr.Count != 0)
-                {
-                    id = Convert.ToInt32(ac1.return_data) + 1;
-                }
-                else
-                {
-                    id = 1;
-                }
+                int id = 0; ;
+                //ac1.MaxId(path_shujuku, Pwd, "测量参数");
+                //if (ac1.Arr.Count != 0)
+                //{
+                //    id = Convert.ToInt32(ac1.return_data) + 1;
+                //}
+                //else
+                //{
+                //    id = 1;
+                //}
                 string data_0 = id.ToString() + ",'" + F2_BL[0] + "','" + F2_BL[1] + "','" + F2_BL[2] + "','" + F2_BL[3] + "','" + F2_BL[4] + "','" + F2_BL[5] + "','" + F2_BL[6] + "','" + F2_BL[7] + "','" + F2_BL[8] + "','" + F2_BL[9] + "','" + F2_BL[10] + "','" + F2_BL[11] + "','" + F2_BL[12] + "'";
                 ac1.Into_rows(path_shujuku, Pwd, "测量参数", data_0);
                 MessageBox.Show("新丝杠测量信息储存成功");

@@ -34,3 +34,9 @@ D:\C#软件\SGDTCLY-JG\丝杠动态测量仪-激光\obj\Debug\丝杠动态测量
 D:\C#软件\SGDTCLY-JG\丝杠动态测量仪-激光\obj\Debug\丝杠动态测量仪-激光.csproj.Up2Date
 D:\C#软件\SGDTCLY-JG\丝杠动态测量仪-激光\obj\Debug\丝杠动态测量仪.exe
 D:\C#软件\SGDTCLY-JG\丝杠动态测量仪-激光\obj\Debug\丝杠动态测量仪.pdb
+D:\C#软件\SGDTCLY-JG\丝杠动态测量仪-激光\bin\Debug\GZH_ClassLibrary.dll
+D:\C#软件\SGDTCLY-JG\丝杠动态测量仪-激光\bin\Debug\ClosedXML.dll
+D:\C#软件\SGDTCLY-JG\丝杠动态测量仪-激光\bin\Debug\DocumentFormat.OpenXml.dll
+D:\C#软件\SGDTCLY-JG\丝杠动态测量仪-激光\bin\Debug\GZH_ClassLibrary.pdb
+D:\C#软件\SGDTCLY-JG\丝杠动态测量仪-激光\bin\Debug\ClosedXML.pdb
+D:\C#软件\SGDTCLY-JG\丝杠动态测量仪-激光\bin\Debug\ClosedXML.xml

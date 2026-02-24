@@ -54,7 +54,7 @@ namespace 丝杠动态测量仪
             else
             {
                 AccessClass ac1 = new AccessClass();
-                string name_data = "口令='" + textBox2.Text.Trim() + "'";
+                string name_data =$"口令='{textBox2.Text.Trim()}'";
                 ac1.Up_data(path_shujuku_1, Pwd, "登录", name_data, "权限", comboBox1.Text);
                 MessageBox.Show(comboBox1.Text + ":密码修改成功！" +
                     "新密码为:" + textBox2.Text.Trim());
